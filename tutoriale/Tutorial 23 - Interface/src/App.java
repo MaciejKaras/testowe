@@ -11,7 +11,7 @@ public class App {
 		mach2.start();
 		mach2.start();
 		
-		//Person person1 - new Person();
+		Person person1 = new Person("lala");
 		System.out.println(mach1.id);
 		System.out.println(mach2.id);
 
